@@ -1,0 +1,5 @@
+com.exceeddata.sdk.vdata.binary
+com.exceeddata.sdk.vdata.data
+com.exceeddata.sdk.vdata.data.filter
+com.exceeddata.sdk.vdata.series
+com.exceeddata.sdk.vdata.typed
