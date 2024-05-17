@@ -67,7 +67,7 @@ Object[][] objs = df.objects();
 
 ## Complete Examples
 ### Full VSW Decode App
-- [VswDecode.java](src/VswDecode.java): a full parameterized app that decodes vsw then exports to CSV format.
+- [VswDecode.java](examples/src/main/java/com/exceeddata/examples/VswDecode.java): a full parameterized app that decodes vsw then exports to CSV format.
   - Supports input and output file path parameters.
   - Supports optional signals selection parameter.
   - Supports optional base64 encoded vsw files.
@@ -75,7 +75,7 @@ Object[][] objs = df.objects();
 
 
 ## Getting Help
-For usage questions, the best place to go to is [Github issues](https://github.com/exceeddata/sdk-vdata-java//issues). For customers of EXCEEDDATA commercial solutions, you can contact [support](mailto:support@smartsct.com) for questions or support.
+For usage questions, the best place to go to is [Github issues](https://github.com/exceeddata/sdk-vdata-java/issues). For customers of EXCEEDDATA commercial solutions, you can contact [support](mailto:support@smartsct.com) for questions or support.
 
 ## Contributing to EXD
 All contributions, bug reports, bug fixes, documentation improvements, code enhancements, and new ideas are welcome.
