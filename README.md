@@ -39,7 +39,7 @@ Binary installers for the latest released version are available upon request.
 
 
 ## API Documentation
-Publicly available SDK classes and methods are at [API Documentation](https://htmlpreview.github.io/?https://github.com/exceeddata/sdk-vdata-java/blob/main/doc/index.html).
+Publicly available SDK classes and methods are at [API Documentation](https://htmlpreview.github.io/?https://github.com/exceeddata/sdk-vdata-java/blob/main/doc/index.html). [BackupLink](https://exdfiles.cn-sh2.ufileos.com/vdata_sdk/docs/java/index.html)
 
 **Import**
 To use the SDK import the following:
@@ -72,6 +72,7 @@ Object[][] objs = df.objects();
   - Supports optional signals selection parameter.
   - Supports optional base64 encoded vsw files.
   - Supports densify, expand mode and queue mode parameters.
+- vsw2blf, vsw2asc is not opensource in java. It will be provided in EXCEEDDATA commercial solutions. 
 
 
 ## Getting Help
