@@ -1,0 +1,15 @@
+coverage
+build
+node_modules
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+.awcache
+.scannerwork
+.test-report.xml
+.iml
+.class
+target
